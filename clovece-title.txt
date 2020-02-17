@@ -1,0 +1,6 @@
+
+
+(RED) \/(GREEN)    (YELLOW)    (BLUE)     (MAGENTA) \/  (CYAN) \/(RED)        (GREEN)      (YELLOW)     (BLUE)   (MAGENTA)    (CYAN)     (RED)       (GREEN) __
+(RED) _ (GREEN)    (YELLOW) _  (BLUE)     (MAGENTA) ___ (CYAN) _ (RED) ___    (GREEN)|\  | (YELLOW) ___ (BLUE)__ (MAGENTA)    (CYAN) _   (RED) _     (GREEN)(   (YELLOW) ___
+(RED)/  (GREEN)|   (YELLOW)/ \ (BLUE)\  / (MAGENTA)|___ (CYAN)/  (RED)|__     (GREEN)| \ | (YELLOW)|__  (BLUE) / (MAGENTA)|   (CYAN)/ \  (RED)|_)    (GREEN) \  (YELLOW)|__
+(RED)\_ (GREEN)|__ (YELLOW)\_/ (BLUE) \/  (MAGENTA)|___ (CYAN)\_ (RED)|___    (GREEN)|  \| (YELLOW)|___ (BLUE)/_ (MAGENTA)|__ (CYAN)\_/  (RED)|_)    (GREEN)__) (YELLOW)|___

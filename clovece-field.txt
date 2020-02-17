@@ -1,0 +1,16 @@
+ _______________________________________________________
+|                                                       |
+|  (DOM-1-1) (DOM-1-2)         (POLE-09) (POLE-10) (POLE-11) (POLE-12) (POLE-13)         (DOM-2-1) (DOM-2-2)  |
+|  (DOM-1-3) (DOM-1-4)         (POLE-08)     (FIN-2-1)     (POLE-14)         (DOM-2-3) (DOM-2-4)  |
+|                  (POLE-07)     (FIN-2-2)     (POLE-15)                  |
+|                  (POLE-06)     (FIN-2-3)     (POLE-16)                  |
+|  (POLE-01) (POLE-02) (POLE-03) (POLE-04) (POLE-05)     (FIN-2-4)     (POLE-17) (POLE-18) (POLE-19) (POLE-20) (POLE-21)  |
+|  (POLE-00)                                             (POLE-22)  |
+|  (POLE-47) (FIN-1-1) (FIN-1-2) (FIN-1-3) (FIN-1-4)             (FIN-3-4) (FIN-3-3) (FIN-3-2) (FIN-3-1) (POLE-23)  |
+|  (POLE-46)                                             (POLE-24)  |
+|  (POLE-45) (POLE-44) (POLE-43) (POLE-42) (POLE-41)     (FIN-4-4)     (POLE-29) (POLE-28) (POLE-27) (POLE-26) (POLE-25)  |
+|                  (POLE-40)     (FIN-4-3)     (POLE-30)                  |
+|                  (POLE-39)     (FIN-4-2)     (POLE-31)                  |
+|  (DOM-4-1) (DOM-4-2)         (POLE-38)     (FIN-4-1)     (POLE-32)         (DOM-3-1) (DOM-3-2)  |
+|  (DOM-4-3) (DOM-4-4)         (POLE-37) (POLE-36) (POLE-35) (POLE-34) (POLE-33)         (DOM-3-3) (DOM-3-4)  |
+|_______________________________________________________|
